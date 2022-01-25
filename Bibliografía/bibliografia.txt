@@ -1,0 +1,10 @@
+Bibliografía
+
+Clase 1: 
+
+Documentación de Plotly: https://plotly.com/python/
+
+Clase 2: 
+
+Introduction to Machine Learning with Python: Andreas C. Müller & Sarah Guido Cap 2
+Building Machine Learning and Deep Learning Models on Google Cloud Platform : Ekaba Bisong. Captiulo 14-15

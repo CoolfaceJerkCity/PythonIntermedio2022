@@ -8,3 +8,9 @@ Clase 2:
 
 Introduction to Machine Learning with Python: Andreas C. Müller & Sarah Guido Cap 2
 Building Machine Learning and Deep Learning Models on Google Cloud Platform : Ekaba Bisong. Captiulo 14-15
+
+Clase 3: 
+
+Introduction to Machine Learning with Python: Andreas C. Müller & Sarah Guido Cap 2: Linear Models y Linear models for classification
+Building Machine Learning and Deep Learning Models on Google Cloud Platform : Ekaba Bisong. Captiulo 20-21
+Sklearn documentation: https://scikit-learn.org/

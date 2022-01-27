@@ -14,3 +14,14 @@ Clase 3:
 Introduction to Machine Learning with Python: Andreas C. Müller & Sarah Guido Cap 2: Linear Models y Linear models for classification
 Building Machine Learning and Deep Learning Models on Google Cloud Platform : Ekaba Bisong. Captiulo 20-21
 Sklearn documentation: https://scikit-learn.org/
+
+Clase 4: 
+
+Introduction to Machine Learning with Python: Andreas C. Müller & Sarah Guido Cap 2: Hasta la página 105
+Building Machine Learning and Deep Learning Models on Google Cloud Platform : Ekaba Bisong. Captiulo 22 y 23
+Sklearn documenation SVM: https://scikit-learn.org/stable/modules/svm.html#svm
+Sklearn documentation Emsable methods:https://scikit-learn.org/stable/modules/ensemble.html#ensemble 
+Sklearn documentation SGD : https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html
+Sklearn documentation RF: https://scikit-learn.org/stable/modules/ensemble.html#forest
+Video educativo CART: https://www.youtube.com/watch?v=7VeUPuFGJHk
+Video educativo RF: https://www.youtube.com/watch?v=J4Wdy0Wc_xQ

@@ -25,3 +25,7 @@ Sklearn documentation SGD : https://scikit-learn.org/stable/modules/generated/sk
 Sklearn documentation RF: https://scikit-learn.org/stable/modules/ensemble.html#forest
 Video educativo CART: https://www.youtube.com/watch?v=7VeUPuFGJHk
 Video educativo RF: https://www.youtube.com/watch?v=J4Wdy0Wc_xQ
+
+Clase 5: 
+Building Machine Learning and Deep Learning Models on Google Cloud Platform : Ekaba Bisong. Captiulo 18
+Introduction to Machine Learning with Python: Andreas C. Müller & Sarah Guido Cap 4

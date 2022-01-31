@@ -28,4 +28,13 @@ Video educativo RF: https://www.youtube.com/watch?v=J4Wdy0Wc_xQ
 
 Clase 5: 
 Building Machine Learning and Deep Learning Models on Google Cloud Platform : Ekaba Bisong. Captiulo 18
-Introduction to Machine Learning with Python: Andreas C. Müller & Sarah Guido Cap 4
+Introduction to Machine Learning with Python: Andreas C. Müller & Sarah Guido Cap 3. Métodos de preprocesamiento. 
+
+Clase 6: 
+Building Machine Learning and Deep Learning Models on Google Cloud Platform : Ekaba Bisong. Captiulo 25 y 26
+Introduction to Machine Learning with Python: Andreas C. Müller & Sarah Guido Cap 3. Métodos no supervisados: K-means, PCA y agrupamiento jerárquico.
+Clustering. Documentación de Sklearn https://scikit-learn.org/stable/modules/clustering.html#clustering
+Computarización del métdodo K-means: https://www.youtube.com/watch?v=s6PSSzeUMFk
+Computarización del métdodo agrupación jerárquica: https://www.youtube.com/watch?v=iT4xYghI7Rg
+
+
